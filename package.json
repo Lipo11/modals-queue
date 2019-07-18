@@ -1,7 +1,7 @@
 {
   "name": "modals-queue",
-  "version": "1.0.0",
-  "description": "Promise based queue",
+  "version": "1.0.1",
+  "description": "Simple no dependencies queue library for modals and etc... The best usage is for task which should run after another task.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

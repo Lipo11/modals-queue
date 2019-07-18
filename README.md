@@ -1,5 +1,5 @@
 # Modals queue
-Promise based queue.
+Simple no dependencies queue library for modals and etc... The best usage is for task which should run after another task.
 
 ### Installing
 ```
