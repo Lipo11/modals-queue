@@ -1,0 +1,25 @@
+{
+  "name": "modals-queue",
+  "version": "1.0.0",
+  "description": "Promise based queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lipo11/modals-queue.git"
+  },
+  "keywords": [
+    "modal",
+    "modals",
+    "queue",
+    "promise"
+  ],
+  "author": "Alex Polomcak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lipo11/modals-queue/issues"
+  },
+  "homepage": "https://github.com/Lipo11/modals-queue#readme"
+}
